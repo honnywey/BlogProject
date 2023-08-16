@@ -1,4 +1,4 @@
-# Blog Web App with EJS, Node.js, and JavaScript
+# EJS-Powered Blog Web App in Node.js
 
 This project is a blog web application created to learn and practice using EJS templates, Node.js, and JavaScript for backend development.
 
